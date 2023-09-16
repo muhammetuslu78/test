@@ -5,8 +5,10 @@ The project was made by mvzr78
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/Ekran%20görüntüsü%202023-09-05%20191329.png)
-
+<img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r1.png" width="156" height="275">    <img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r2.png" width="156" height="275">    <img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r3.png" width="156" height="275">    <img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r4.png" width="156" height="275">
+<img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r5.png" width="156" height="275">
+<img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r6.png" width="156" height="275">
+<img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r7.png" width="156" height="275">
   
 ## Özellikler
 
